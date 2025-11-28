@@ -1,7 +1,7 @@
  # Flask Project
 
-A simple web application built using [Flask](https://flask.palletsprojects.com/), a lightweight Python web framework.  
-Flask as you know **Flask is a lightweight, Python-based web framework used for building web applications. It's classified as a "micro-framework" because it provides a minimal core with essential tools but does not include many built-in features like a database layer, allowing developers to choose their own extensions and libraries.** 
+### A simple web application built using [Flask](https://flask.palletsprojects.com/), a lightweight Python web framework.  
+ ### As you know **Flask is a lightweight, Python-based web framework used for building web applications. It's classified as a "micro-framework" because it provides a minimal core with essential tools but does not include many built-in features like a database layer, allowing developers to choose their own extensions and libraries.** 
 📘 🛩️ 🛩️
 ---
 
@@ -19,3 +19,7 @@ Flask as you know **Flask is a lightweight, Python-based web framework used for 
 - **Containerization:** Docker
 - **Version Control:** Git, GitHub
 
+**This repo contain some of the projects that I worked , and I also looking to upload more projects in the future....**
+# 🌹 
+# 🌹
+# 🌹
